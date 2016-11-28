@@ -9,7 +9,7 @@ import java.util.GregorianCalendar;
 /**
  * This class will contain EL functions which are used in Oozie server.
  * jar file to be copied into /var/lib/oozie/  path and oozie server needs to be restarted for oozie to picup this jar.
- *
+ * Welc_ome
  */
 public class PrismELFunctions 
 {
