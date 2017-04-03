@@ -16,7 +16,7 @@ public class PrismELFunctions
 	/**
 	 * This function returns list of dates  in yyyyMMdd,yyyyMMdd,yyyyMMdd format.
 	 * Inputs current_date in yyyyMMdd format and number_of_days.
-	 * Number of days can be –ve or +ve.
+	 * Number of days can be –ve or +ve. Updatedd1
 	 * Example:
 	 * getDates(‘20150902’,-5) will return  ‘20150902,20150901,20150831,20150830,20150829’
 	 * getDates(‘20150912’,5) will return ‘20150912,20150913,20150914,20150915,20150916’
